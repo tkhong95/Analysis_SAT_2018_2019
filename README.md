@@ -13,6 +13,7 @@ The digital SAT is a new version of taking SAT test for students. Instead of tak
 ### Problem Statement
 
 The digital SAT will be release in March 2024 for students in the United State. However, the numbers of students who took the SAT test was different from each states and the rate of students who participate in SAT test have changed each year. The purpose of this project is to explore the change of participation rate for the year 2018 and 2019 and identify states that have the SAT participation rate increased.
+
 ---
 
 ### Datasets
