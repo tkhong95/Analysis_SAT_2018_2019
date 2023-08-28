@@ -36,3 +36,33 @@ The digital SAT will be release in March 2024 for students in the United State. 
  * Fifth column: total average evidence-based reading and writing score and math score
 
 ---
+
+### Outside Research
+
+The school year of 2019 had the highest number of students took the SAT test with more than 2.2 million students participated in the test. The participation rate in 2019 was increase 4% compare to the participation rate of 2018 ([*source*](https://newsroom.collegeboard.org/over-22-million-students-class-2019-took-sat-largest-group-ever)).
+
+---
+
+### Data Dictionary
+
+|Feature|Type|Dataset|Description|
+|---|---|---|---|
+|state|object|SAT_2018 and SAT_2019|List of state that participate in SAT test| 
+|participation|object|SAT_2018 and SAT_2019|Percentage of students participated in SAT test|
+|evidence_based_reading_writing|integer|SAT_2018 and SAT_2019|Average evidence based reading writing score|
+|math|integer|SAT_2018 and SAT_2019|Average math score|
+|total|integer|SAT_2018 and SAT_2019|Total average of evidence based reading writing and math score|
+|particapation_rate|float|SAT_2018 and SAT_2019| Convert the percentage of student participated in SAT test to decimal (unit percent divided by 100)| 
+
+---
+### Conclusion
+
+* The participation rate of SAT test was increased almost 4% from 2018 to 2019.
+* From 2018 to 2019, 23 states that had the SAT test participation rate increase.
+* West Virginia was the state that have highest increment rate. The participation rate of West Virginia was increased 71% from 2018 to 2019 (28% in 2018 and 99% in 2019). 
+* Following by West Virginia, Florida had the participation rate increase from 56% (in 2018) to 100% (in 2019) which is 44% of increment rate. 
+* South Carolina and Oklahoma also have the SAT test participation rate increase above 10%.
+
+---
+### Presentation Slide
+https://docs.google.com/presentation/d/1Y9C6VCRVFojSwMlNVlLHdb8qOoeHyQ1_LdKTx8HC5T0/edit?usp=sharing
